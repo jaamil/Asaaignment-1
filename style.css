@@ -137,3 +137,115 @@ body{
       border: none;
       background-color: #FFF4D6;
     }
+/* Help Children section start  */
+
+.help-children h1 {
+    font-size: 50px;
+    text-align: center;
+  }
+.help-children p {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 23px;
+  }
+  
+.help-title ul li{
+      text-decoration: underline;
+  }
+.poor-pepole {
+    display: flex;
+  }
+.help-img {
+    width: 50%;
+  }
+  
+.help-img img {
+    width: 80%;
+  }
+.help-img h4 {
+    text-align: justify;
+    font-size: 25px;
+    padding: 5px;
+    margin-top: 0px;
+  }
+.help-img h6 {
+    font-size: 15px;
+  }
+  
+.btn-btn1 {
+    padding: 15px 25px;
+    border-radius: 15px;
+    background-color: #ff5959;
+    color: white;
+    font-size: 15px;
+    border: none;
+    margin-left: 30px;
+  }
+  /* Help children section end*/
+
+/* form section start  */
+.form-text h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+.form-text p{
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.form-part {
+    width: 60%;
+    box-shadow: 0px 0px 0px 0px white;
+    padding: 60px;
+    margin-left: 15%;
+    background-color: #FFF4D6;
+}
+
+
+
+.form-input{
+    text-align: center;
+}
+
+.form-input input{
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    background-color: #D9D9D9;
+    border: none;
+}
+
+.form-input button{
+    width: 15%;
+    padding: 10px;
+    position: relative;
+    margin-left: 305px;
+    background-color: #ff5959;
+    border: none;
+    
+}
+/* form section end */
+
+/* footer section start  */
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 40px;
+    margin-top: 80px;
+}
+footer h1{
+    color: #C64749;
+}
+
+footer h1{
+    color: #C64749;
+}
+
+footer h5{
+    color: #82A5C0;
+}
+/* footer section end  */
+
+
