@@ -34,3 +34,61 @@ body{
   border: none;
 }
 /* Header section end  */
+
+/* Donate section start  */
+.Donate-part h2 {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+.Donate-part p {
+    font-size: 24px;
+    text-align: center;
+  }
+.taka-donate {
+    width: 80%;
+    margin-left: 7%;
+    /* margin-right: 5%; */
+    padding-left: 5%;
+    padding: 20px;
+    box-shadow: 0px 0px 0px 0px grey;
+    border-bottom: 1px solid;
+  }
+  
+.taka {
+    display: flex;
+  }
+  
+.taka-text {
+    width: 20%;
+    margin: 10px;
+    box-shadow: 0px 0px 1px 1px #fcfcfc;
+    padding: 20px;
+    text-align: center;
+    background-color: #eee6e64d;
+  }
+  
+.taka-donate h6 {
+    text-align: center;
+    margin-bottom: 1px;
+    color: gray;
+  }
+.border-color {
+    border: 2px solid orangered;
+    background-color: #f5f0f0;
+  }
+.border-color h1 {
+    color: #ff5959;
+  }
+.btn {
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: #ff5959;
+    color: white;
+    font-size: 15px;
+    border: none;
+    margin: 14px auto;
+    display: flex;
+  }
+  /* Donate section end  */
