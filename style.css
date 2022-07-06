@@ -1,0 +1,36 @@
+/* Google fonts  */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header section start  */
+.header-banner {
+  background-image: url(images/donation1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.banner-text {
+  text-align: center;
+  color: white;
+  padding: 120px;
+}
+.banner-text h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.banner-text p {
+  font-size: 24px;
+}
+.btn-btn {
+  padding: 15px 30px;
+  border-radius: 15px;
+  background-color: #ff5959;
+  color: white;
+  font-size: 20px;
+  border: none;
+}
+/* Header section end  */
